@@ -1,0 +1,7 @@
+name: EasyEssentials
+author: EasyTeam
+authors:
+  - AgusPedhot
+api: 3.0.0
+main: pedhot\easyessentials\EasyEssentials
+version: 1.0
